@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <OutputType>Exe</OutputType>
+  </PropertyGroup>
+  <ItemGroup>
+    <Protobuf Include="..\GrpcServer\Protos\calculator.proto" GrpcServices="Client" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Grpc.Net.Client" Version="2.64.0" />
+    <PackageReference Include="Google.Protobuf" Version="3.25.3" />
+    <PackageReference Include="Grpc.Tools" Version="2.64.0" PrivateAssets="All" />
+  </ItemGroup>
+</Project>

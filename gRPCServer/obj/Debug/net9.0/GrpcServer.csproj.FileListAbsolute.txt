@@ -1,0 +1,73 @@
+E:\6 Semester\PDC\Asignment 1.2\GrpcServer\bin\Debug\net9.0\appsettings.Development.json
+E:\6 Semester\PDC\Asignment 1.2\GrpcServer\bin\Debug\net9.0\appsettings.json
+E:\6 Semester\PDC\Asignment 1.2\GrpcServer\bin\Debug\net9.0\GrpcServer.staticwebassets.endpoints.json
+E:\6 Semester\PDC\Asignment 1.2\GrpcServer\bin\Debug\net9.0\GrpcServer.exe
+E:\6 Semester\PDC\Asignment 1.2\GrpcServer\bin\Debug\net9.0\GrpcServer.deps.json
+E:\6 Semester\PDC\Asignment 1.2\GrpcServer\bin\Debug\net9.0\GrpcServer.runtimeconfig.json
+E:\6 Semester\PDC\Asignment 1.2\GrpcServer\bin\Debug\net9.0\GrpcServer.dll
+E:\6 Semester\PDC\Asignment 1.2\GrpcServer\bin\Debug\net9.0\GrpcServer.pdb
+E:\6 Semester\PDC\Asignment 1.2\GrpcServer\bin\Debug\net9.0\Google.Protobuf.dll
+E:\6 Semester\PDC\Asignment 1.2\GrpcServer\bin\Debug\net9.0\Grpc.AspNetCore.Server.dll
+E:\6 Semester\PDC\Asignment 1.2\GrpcServer\bin\Debug\net9.0\Grpc.AspNetCore.Server.ClientFactory.dll
+E:\6 Semester\PDC\Asignment 1.2\GrpcServer\bin\Debug\net9.0\Grpc.Core.Api.dll
+E:\6 Semester\PDC\Asignment 1.2\GrpcServer\bin\Debug\net9.0\Grpc.Net.Client.dll
+E:\6 Semester\PDC\Asignment 1.2\GrpcServer\bin\Debug\net9.0\Grpc.Net.ClientFactory.dll
+E:\6 Semester\PDC\Asignment 1.2\GrpcServer\bin\Debug\net9.0\Grpc.Net.Common.dll
+E:\6 Semester\PDC\Asignment 1.2\GrpcServer\obj\Debug\net9.0\GrpcServer.csproj.AssemblyReference.cache
+E:\6 Semester\PDC\Asignment 1.2\GrpcServer\obj\Debug\net9.0\GrpcServer.GeneratedMSBuildEditorConfig.editorconfig
+E:\6 Semester\PDC\Asignment 1.2\GrpcServer\obj\Debug\net9.0\GrpcServer.AssemblyInfoInputs.cache
+E:\6 Semester\PDC\Asignment 1.2\GrpcServer\obj\Debug\net9.0\GrpcServer.AssemblyInfo.cs
+E:\6 Semester\PDC\Asignment 1.2\GrpcServer\obj\Debug\net9.0\GrpcServer.csproj.CoreCompileInputs.cache
+E:\6 Semester\PDC\Asignment 1.2\GrpcServer\obj\Debug\net9.0\GrpcServer.MvcApplicationPartsAssemblyInfo.cache
+E:\6 Semester\PDC\Asignment 1.2\GrpcServer\obj\Debug\net9.0\scopedcss\bundle\GrpcServer.styles.css
+E:\6 Semester\PDC\Asignment 1.2\GrpcServer\obj\Debug\net9.0\staticwebassets.build.json
+E:\6 Semester\PDC\Asignment 1.2\GrpcServer\obj\Debug\net9.0\staticwebassets.development.json
+E:\6 Semester\PDC\Asignment 1.2\GrpcServer\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+E:\6 Semester\PDC\Asignment 1.2\GrpcServer\obj\Debug\net9.0\staticwebassets\msbuild.GrpcServer.Microsoft.AspNetCore.StaticWebAssets.props
+E:\6 Semester\PDC\Asignment 1.2\GrpcServer\obj\Debug\net9.0\staticwebassets\msbuild.GrpcServer.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\6 Semester\PDC\Asignment 1.2\GrpcServer\obj\Debug\net9.0\staticwebassets\msbuild.build.GrpcServer.props
+E:\6 Semester\PDC\Asignment 1.2\GrpcServer\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.GrpcServer.props
+E:\6 Semester\PDC\Asignment 1.2\GrpcServer\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.GrpcServer.props
+E:\6 Semester\PDC\Asignment 1.2\GrpcServer\obj\Debug\net9.0\staticwebassets.pack.json
+E:\6 Semester\PDC\Asignment 1.2\GrpcServer\obj\Debug\net9.0\GrpcServer.csproj.Up2Date
+E:\6 Semester\PDC\Asignment 1.2\GrpcServer\obj\Debug\net9.0\GrpcServer.dll
+E:\6 Semester\PDC\Asignment 1.2\GrpcServer\obj\Debug\net9.0\refint\GrpcServer.dll
+E:\6 Semester\PDC\Asignment 1.2\GrpcServer\obj\Debug\net9.0\GrpcServer.pdb
+E:\6 Semester\PDC\Asignment 1.2\GrpcServer\obj\Debug\net9.0\GrpcServer.genruntimeconfig.cache
+E:\6 Semester\PDC\Asignment 1.2\GrpcServer\obj\Debug\net9.0\ref\GrpcServer.dll
+D:\01. Personal\Webs\PDC\RemotePrograming_gRPC\gRPCServer\bin\Debug\net9.0\appsettings.Development.json
+D:\01. Personal\Webs\PDC\RemotePrograming_gRPC\gRPCServer\bin\Debug\net9.0\appsettings.json
+D:\01. Personal\Webs\PDC\RemotePrograming_gRPC\gRPCServer\bin\Debug\net9.0\GrpcServer.staticwebassets.endpoints.json
+D:\01. Personal\Webs\PDC\RemotePrograming_gRPC\gRPCServer\bin\Debug\net9.0\GrpcServer.exe
+D:\01. Personal\Webs\PDC\RemotePrograming_gRPC\gRPCServer\bin\Debug\net9.0\GrpcServer.deps.json
+D:\01. Personal\Webs\PDC\RemotePrograming_gRPC\gRPCServer\bin\Debug\net9.0\GrpcServer.runtimeconfig.json
+D:\01. Personal\Webs\PDC\RemotePrograming_gRPC\gRPCServer\bin\Debug\net9.0\GrpcServer.dll
+D:\01. Personal\Webs\PDC\RemotePrograming_gRPC\gRPCServer\bin\Debug\net9.0\GrpcServer.pdb
+D:\01. Personal\Webs\PDC\RemotePrograming_gRPC\gRPCServer\bin\Debug\net9.0\Google.Protobuf.dll
+D:\01. Personal\Webs\PDC\RemotePrograming_gRPC\gRPCServer\bin\Debug\net9.0\Grpc.AspNetCore.Server.dll
+D:\01. Personal\Webs\PDC\RemotePrograming_gRPC\gRPCServer\bin\Debug\net9.0\Grpc.AspNetCore.Server.ClientFactory.dll
+D:\01. Personal\Webs\PDC\RemotePrograming_gRPC\gRPCServer\bin\Debug\net9.0\Grpc.Core.Api.dll
+D:\01. Personal\Webs\PDC\RemotePrograming_gRPC\gRPCServer\bin\Debug\net9.0\Grpc.Net.Client.dll
+D:\01. Personal\Webs\PDC\RemotePrograming_gRPC\gRPCServer\bin\Debug\net9.0\Grpc.Net.ClientFactory.dll
+D:\01. Personal\Webs\PDC\RemotePrograming_gRPC\gRPCServer\bin\Debug\net9.0\Grpc.Net.Common.dll
+D:\01. Personal\Webs\PDC\RemotePrograming_gRPC\gRPCServer\obj\Debug\net9.0\GrpcServer.csproj.AssemblyReference.cache
+D:\01. Personal\Webs\PDC\RemotePrograming_gRPC\gRPCServer\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\01. Personal\Webs\PDC\RemotePrograming_gRPC\gRPCServer\obj\Debug\net9.0\GrpcServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\01. Personal\Webs\PDC\RemotePrograming_gRPC\gRPCServer\obj\Debug\net9.0\GrpcServer.AssemblyInfoInputs.cache
+D:\01. Personal\Webs\PDC\RemotePrograming_gRPC\gRPCServer\obj\Debug\net9.0\GrpcServer.AssemblyInfo.cs
+D:\01. Personal\Webs\PDC\RemotePrograming_gRPC\gRPCServer\obj\Debug\net9.0\GrpcServer.csproj.CoreCompileInputs.cache
+D:\01. Personal\Webs\PDC\RemotePrograming_gRPC\gRPCServer\obj\Debug\net9.0\GrpcServer.MvcApplicationPartsAssemblyInfo.cache
+D:\01. Personal\Webs\PDC\RemotePrograming_gRPC\gRPCServer\obj\Debug\net9.0\rjimswa.dswa.cache.json
+D:\01. Personal\Webs\PDC\RemotePrograming_gRPC\gRPCServer\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+D:\01. Personal\Webs\PDC\RemotePrograming_gRPC\gRPCServer\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+D:\01. Personal\Webs\PDC\RemotePrograming_gRPC\gRPCServer\obj\Debug\net9.0\scopedcss\bundle\GrpcServer.styles.css
+D:\01. Personal\Webs\PDC\RemotePrograming_gRPC\gRPCServer\obj\Debug\net9.0\staticwebassets.build.json
+D:\01. Personal\Webs\PDC\RemotePrograming_gRPC\gRPCServer\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\01. Personal\Webs\PDC\RemotePrograming_gRPC\gRPCServer\obj\Debug\net9.0\staticwebassets.development.json
+D:\01. Personal\Webs\PDC\RemotePrograming_gRPC\gRPCServer\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\01. Personal\Webs\PDC\RemotePrograming_gRPC\gRPCServer\obj\Debug\net9.0\GrpcServer.csproj.Up2Date
+D:\01. Personal\Webs\PDC\RemotePrograming_gRPC\gRPCServer\obj\Debug\net9.0\GrpcServer.dll
+D:\01. Personal\Webs\PDC\RemotePrograming_gRPC\gRPCServer\obj\Debug\net9.0\refint\GrpcServer.dll
+D:\01. Personal\Webs\PDC\RemotePrograming_gRPC\gRPCServer\obj\Debug\net9.0\GrpcServer.pdb
+D:\01. Personal\Webs\PDC\RemotePrograming_gRPC\gRPCServer\obj\Debug\net9.0\GrpcServer.genruntimeconfig.cache
+D:\01. Personal\Webs\PDC\RemotePrograming_gRPC\gRPCServer\obj\Debug\net9.0\ref\GrpcServer.dll

@@ -1,0 +1,42 @@
+E:\6 Semester\PDC\Asignment 1.2\GrpcClient\obj\Debug\net9.0\GrpcClient.csproj.AssemblyReference.cache
+E:\6 Semester\PDC\Asignment 1.2\GrpcClient\obj\Debug\net9.0\GrpcClient.GeneratedMSBuildEditorConfig.editorconfig
+E:\6 Semester\PDC\Asignment 1.2\GrpcClient\obj\Debug\net9.0\GrpcClient.AssemblyInfoInputs.cache
+E:\6 Semester\PDC\Asignment 1.2\GrpcClient\obj\Debug\net9.0\GrpcClient.AssemblyInfo.cs
+E:\6 Semester\PDC\Asignment 1.2\GrpcClient\obj\Debug\net9.0\GrpcClient.csproj.CoreCompileInputs.cache
+E:\6 Semester\PDC\Asignment 1.2\GrpcClient\bin\Debug\net9.0\GrpcClient.exe
+E:\6 Semester\PDC\Asignment 1.2\GrpcClient\bin\Debug\net9.0\GrpcClient.deps.json
+E:\6 Semester\PDC\Asignment 1.2\GrpcClient\bin\Debug\net9.0\GrpcClient.runtimeconfig.json
+E:\6 Semester\PDC\Asignment 1.2\GrpcClient\bin\Debug\net9.0\GrpcClient.dll
+E:\6 Semester\PDC\Asignment 1.2\GrpcClient\bin\Debug\net9.0\GrpcClient.pdb
+E:\6 Semester\PDC\Asignment 1.2\GrpcClient\bin\Debug\net9.0\Google.Protobuf.dll
+E:\6 Semester\PDC\Asignment 1.2\GrpcClient\bin\Debug\net9.0\Grpc.Core.Api.dll
+E:\6 Semester\PDC\Asignment 1.2\GrpcClient\bin\Debug\net9.0\Grpc.Net.Client.dll
+E:\6 Semester\PDC\Asignment 1.2\GrpcClient\bin\Debug\net9.0\Grpc.Net.Common.dll
+E:\6 Semester\PDC\Asignment 1.2\GrpcClient\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\6 Semester\PDC\Asignment 1.2\GrpcClient\obj\Debug\net9.0\GrpcClient.csproj.Up2Date
+E:\6 Semester\PDC\Asignment 1.2\GrpcClient\obj\Debug\net9.0\GrpcClient.dll
+E:\6 Semester\PDC\Asignment 1.2\GrpcClient\obj\Debug\net9.0\refint\GrpcClient.dll
+E:\6 Semester\PDC\Asignment 1.2\GrpcClient\obj\Debug\net9.0\GrpcClient.pdb
+E:\6 Semester\PDC\Asignment 1.2\GrpcClient\obj\Debug\net9.0\GrpcClient.genruntimeconfig.cache
+E:\6 Semester\PDC\Asignment 1.2\GrpcClient\obj\Debug\net9.0\ref\GrpcClient.dll
+D:\01. Personal\Webs\PDC\RemotePrograming_gRPC\gRPCClient\bin\Debug\net9.0\GrpcClient.exe
+D:\01. Personal\Webs\PDC\RemotePrograming_gRPC\gRPCClient\bin\Debug\net9.0\GrpcClient.deps.json
+D:\01. Personal\Webs\PDC\RemotePrograming_gRPC\gRPCClient\bin\Debug\net9.0\GrpcClient.runtimeconfig.json
+D:\01. Personal\Webs\PDC\RemotePrograming_gRPC\gRPCClient\bin\Debug\net9.0\GrpcClient.dll
+D:\01. Personal\Webs\PDC\RemotePrograming_gRPC\gRPCClient\bin\Debug\net9.0\GrpcClient.pdb
+D:\01. Personal\Webs\PDC\RemotePrograming_gRPC\gRPCClient\bin\Debug\net9.0\Google.Protobuf.dll
+D:\01. Personal\Webs\PDC\RemotePrograming_gRPC\gRPCClient\bin\Debug\net9.0\Grpc.Core.Api.dll
+D:\01. Personal\Webs\PDC\RemotePrograming_gRPC\gRPCClient\bin\Debug\net9.0\Grpc.Net.Client.dll
+D:\01. Personal\Webs\PDC\RemotePrograming_gRPC\gRPCClient\bin\Debug\net9.0\Grpc.Net.Common.dll
+D:\01. Personal\Webs\PDC\RemotePrograming_gRPC\gRPCClient\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\01. Personal\Webs\PDC\RemotePrograming_gRPC\gRPCClient\obj\Debug\net9.0\GrpcClient.csproj.AssemblyReference.cache
+D:\01. Personal\Webs\PDC\RemotePrograming_gRPC\gRPCClient\obj\Debug\net9.0\GrpcClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\01. Personal\Webs\PDC\RemotePrograming_gRPC\gRPCClient\obj\Debug\net9.0\GrpcClient.AssemblyInfoInputs.cache
+D:\01. Personal\Webs\PDC\RemotePrograming_gRPC\gRPCClient\obj\Debug\net9.0\GrpcClient.AssemblyInfo.cs
+D:\01. Personal\Webs\PDC\RemotePrograming_gRPC\gRPCClient\obj\Debug\net9.0\GrpcClient.csproj.CoreCompileInputs.cache
+D:\01. Personal\Webs\PDC\RemotePrograming_gRPC\gRPCClient\obj\Debug\net9.0\GrpcClient.csproj.Up2Date
+D:\01. Personal\Webs\PDC\RemotePrograming_gRPC\gRPCClient\obj\Debug\net9.0\GrpcClient.dll
+D:\01. Personal\Webs\PDC\RemotePrograming_gRPC\gRPCClient\obj\Debug\net9.0\refint\GrpcClient.dll
+D:\01. Personal\Webs\PDC\RemotePrograming_gRPC\gRPCClient\obj\Debug\net9.0\GrpcClient.pdb
+D:\01. Personal\Webs\PDC\RemotePrograming_gRPC\gRPCClient\obj\Debug\net9.0\GrpcClient.genruntimeconfig.cache
+D:\01. Personal\Webs\PDC\RemotePrograming_gRPC\gRPCClient\obj\Debug\net9.0\ref\GrpcClient.dll
